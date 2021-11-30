@@ -1017,3 +1017,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.30-07.19.13:111][ 98]LogSlate: Window 'Evir_Sprite_Sheet1' being destroyed
 [2021.11.30-07.19.13:114][ 98]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2021.11.30-07.19.13:114][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-07.24.51:492][151]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ayfei\CS498GD-Final-MP\CS498_Final_Project\Content\2DSideScroller\2DCharacters\Enemies\Game Boy Advance - Metroid Fusion - Blue Zero.png)
+[2021.11.30-07.24.51:497][151]LogTexture: Display: Building textures: Game_Boy_Advance_-_Metroid_Fusion_-_Blue_Zero (BGRA8, 246X242)
+[2021.11.30-07.25.06:411][809]LogSlate: Window 'Extract sprites' being destroyed
+[2021.11.30-07.25.11:923][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.30-07.25.12:869][135]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.30-07.25.12:964][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.11.30-07.25.23:509][759]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2021.11.30-07.25.23:509][759]LogContentBrowser: Deferred new asset file creation: Game_Boy_Advance_-_Metroid_Fusion_-_Blue_Zero1
+[2021.11.30-07.25.23:529][759]LogContentBrowser: Creating deferred item: Game_Boy_Advance_-_Metroid_Fusion_-_Blue_Zero1
+[2021.11.30-07.25.38:371][652]LogContentBrowser: Attempting asset rename: Game_Boy_Advance_-_Metroid_Fusion_-_Blue_Zero1 -> Blue_Zero_Sprite_Sheet1
+[2021.11.30-07.25.38:487][652]LogContentBrowser: End creating deferred item Game_Boy_Advance_-_Metroid_Fusion_-_Blue_Zero1
+[2021.11.30-07.25.40:545][774]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/2DCharacters/Enemies/Blue_Zero_Sprite_Sheet1.Blue_Zero_Sprite_Sheet1
+[2021.11.30-07.25.43:957][972]LogSlate: Window 'Blue_Zero_Sprite_Sheet1' being destroyed
+[2021.11.30-07.25.43:989][972]LogSlate: Window 'Blue_Zero_Sprite_Sheet1' being destroyed
+[2021.11.30-07.25.43:990][972]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-07.25.43:990][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.30-07.25.45:561][ 65]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScroller/2DCharacters/Enemies/Blue_Zero_Sprite_Sheet1.Blue_Zero_Sprite_Sheet1
+[2021.11.30-07.25.49:268][273]LogSavePackage: Moving '../../../../../../Users/ayfei/CS498GD-Final-MP/CS498_Final_Project/Saved/Blue_Zero_Sprite_Sheet1DFBDE96643ED43A3B9E5DA9C9139BA2C.tmp' to '../../../../../../Users/ayfei/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/2DCharacters/Enemies/Blue_Zero_Sprite_Sheet1.uasset'
+[2021.11.30-07.25.49:434][273]AssetCheck: New page: Asset Save: Blue_Zero_Sprite_Sheet1
+[2021.11.30-07.25.49:435][273]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScroller/2DCharacters/Enemies/Blue_Zero_Sprite_Sheet1.Blue_Zero_Sprite_Sheet1
+[2021.11.30-07.25.49:990][306]LogSlate: Window 'Blue_Zero_Sprite_Sheet1' being destroyed
+[2021.11.30-07.25.50:011][306]LogSlate: Window 'Blue_Zero_Sprite_Sheet1' being destroyed
+[2021.11.30-07.25.50:013][306]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.30-07.25.50:013][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
