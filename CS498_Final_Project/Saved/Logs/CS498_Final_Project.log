@@ -2126,3 +2126,93 @@ Please see Output Log for details.
 [2021.12.15-18.42.54:403][982]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.12.15-18.42.54:403][982]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
 [2021.12.15-18.42.54:403][982]LogFileHelpers: Loading map 'Level3' took 0.858
+[2021.12.15-18.45.10:180][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.12.15-18.45.10:356][678]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScroller/Levels/Level2.Level2
+[2021.12.15-18.45.10:357][678]Cmd: MAP LOAD FILE="../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-18.45.10:357][678]LightingResults: New page: Lighting Build
+[2021.12.15-18.45.10:357][678]LoadErrors: New page: Loading map: Level2.umap
+[2021.12.15-18.45.10:369][678]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.45.10:370][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.45.10:370][678]MapCheck: New page: Map Check
+[2021.12.15-18.45.10:370][678]LightingResults: New page: Lighting Build
+[2021.12.15-18.45.10:383][678]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.45.10:452][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.12.15-18.45.10:498][678]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2021.12.15-18.45.10:646][678]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-18.45.10:646][678]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-18.45.10:719][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.12.15-18.45.10:770][678]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-18.45.10:770][678]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2021.12.15-18.45.10:770][678]LogFileHelpers: Loading map 'Level2' took 0.413
+[2021.12.15-18.45.14:206][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.15-18.45.14:334][ 72]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScroller/Levels/Level1.Level1
+[2021.12.15-18.45.14:334][ 72]Cmd: MAP LOAD FILE="../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-18.45.14:334][ 72]LightingResults: New page: Lighting Build
+[2021.12.15-18.45.14:334][ 72]LoadErrors: New page: Loading map: Level1.umap
+[2021.12.15-18.45.14:342][ 72]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.45.14:342][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.45.14:342][ 72]MapCheck: New page: Map Check
+[2021.12.15-18.45.14:342][ 72]LightingResults: New page: Lighting Build
+[2021.12.15-18.45.14:354][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.45.14:458][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.12.15-18.45.14:493][ 72]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.12.15-18.45.14:577][ 72]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-18.45.14:577][ 72]LogAIModule: Creating AISystem for world Level1
+[2021.12.15-18.45.14:641][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.12.15-18.45.14:646][ 72]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-18.45.14:647][ 72]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2021.12.15-18.45.14:647][ 72]LogFileHelpers: Loading map 'Level1' took 0.312
+[2021.12.15-18.45.17:811][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.12.15-18.45.17:984][436]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScroller/Levels/Level2.Level2
+[2021.12.15-18.45.17:984][436]Cmd: MAP LOAD FILE="../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-18.45.17:984][436]LightingResults: New page: Lighting Build
+[2021.12.15-18.45.17:984][436]LoadErrors: New page: Loading map: Level2.umap
+[2021.12.15-18.45.17:988][436]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.45.17:988][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.45.17:989][436]MapCheck: New page: Map Check
+[2021.12.15-18.45.17:989][436]LightingResults: New page: Lighting Build
+[2021.12.15-18.45.17:999][436]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.45.18:069][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.12.15-18.45.18:103][436]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2021.12.15-18.45.18:251][436]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-18.45.18:251][436]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-18.45.18:342][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.12.15-18.45.18:394][436]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-18.45.18:394][436]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2021.12.15-18.45.18:394][436]LogFileHelpers: Loading map 'Level2' took 0.411
+[2021.12.15-18.45.19:431][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.12.15-18.45.19:939][551]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScroller/Levels/Level3.Level3
+[2021.12.15-18.45.19:940][551]Cmd: MAP LOAD FILE="../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-18.45.19:940][551]LightingResults: New page: Lighting Build
+[2021.12.15-18.45.19:940][551]LoadErrors: New page: Loading map: Level3.umap
+[2021.12.15-18.45.19:949][551]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.45.19:949][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.45.19:949][551]MapCheck: New page: Map Check
+[2021.12.15-18.45.19:949][551]LightingResults: New page: Lighting Build
+[2021.12.15-18.45.19:969][551]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.45.20:059][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.12.15-18.45.20:073][551]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2021.12.15-18.45.20:539][551]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-18.45.20:539][551]LogAIModule: Creating AISystem for world Level3
+[2021.12.15-18.45.20:660][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.12.15-18.45.20:685][551]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-18.45.20:686][551]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.243ms to complete.
+[2021.12.15-18.45.20:686][551]LogFileHelpers: Loading map 'Level3' took 0.746
+[2021.12.15-18.45.23:266][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.12.15-18.45.23:417][815]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScroller/Levels/Level2.Level2
+[2021.12.15-18.45.23:417][815]Cmd: MAP LOAD FILE="../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-18.45.23:417][815]LightingResults: New page: Lighting Build
+[2021.12.15-18.45.23:418][815]LoadErrors: New page: Loading map: Level2.umap
+[2021.12.15-18.45.23:431][815]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.45.23:431][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.45.23:432][815]MapCheck: New page: Map Check
+[2021.12.15-18.45.23:432][815]LightingResults: New page: Lighting Build
+[2021.12.15-18.45.23:447][815]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.45.23:511][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.12.15-18.45.23:557][815]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2021.12.15-18.45.23:697][815]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-18.45.23:698][815]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-18.45.23:776][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.12.15-18.45.23:828][815]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-18.45.23:829][815]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2021.12.15-18.45.23:829][815]LogFileHelpers: Loading map 'Level2' took 0.411
