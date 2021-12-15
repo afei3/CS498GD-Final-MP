@@ -2216,3 +2216,1053 @@ Please see Output Log for details.
 [2021.12.15-18.45.23:828][815]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.12.15-18.45.23:829][815]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
 [2021.12.15-18.45.23:829][815]LogFileHelpers: Loading map 'Level2' took 0.411
+[2021.12.15-18.47.29:654][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.15-18.47.29:772][676]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScroller/Levels/Level1.Level1
+[2021.12.15-18.47.29:772][676]Cmd: MAP LOAD FILE="../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-18.47.29:772][676]LightingResults: New page: Lighting Build
+[2021.12.15-18.47.29:772][676]LoadErrors: New page: Loading map: Level1.umap
+[2021.12.15-18.47.29:780][676]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.47.29:780][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.47.29:781][676]MapCheck: New page: Map Check
+[2021.12.15-18.47.29:781][676]LightingResults: New page: Lighting Build
+[2021.12.15-18.47.29:789][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.47.29:886][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.12.15-18.47.29:918][676]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.12.15-18.47.30:003][676]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-18.47.30:003][676]LogAIModule: Creating AISystem for world Level1
+[2021.12.15-18.47.30:048][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.12.15-18.47.30:054][676]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-18.47.30:054][676]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.249ms to complete.
+[2021.12.15-18.47.30:054][676]LogFileHelpers: Loading map 'Level1' took 0.282
+[2021.12.15-18.47.32:368][931]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-18.47.32:376][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-18.47.32:376][931]PIE: New page: PIE session: Level1 (Dec 15, 2021, 6:47:32 AM)
+[2021.12.15-18.47.32:376][931]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level1
+[2021.12.15-18.47.32:399][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023208s)
+[2021.12.15-18.47.32:400][931]LogAIModule: Creating AISystem for world Level1
+[2021.12.15-18.47.32:405][931]LogPlayLevel: PIE: World Init took: (0.005433s)
+[2021.12.15-18.47.32:405][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level1.Level1 to /Game/2DSideScroller/Levels/UEDPIE_0_Level1.Level1 (0.028820s)
+[2021.12.15-18.47.32:412][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.15-18.47.32:413][931]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.12.15-18.47.32:413][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-18.47.32:413][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-18.47.32:413][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-18.47.32:413][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-18.47.32:413][931]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-18.47.32:413][931]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-18.47.32:413][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-18.47.32:413][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-18.47.32:414][931]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-18.47.32:414][931]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-18.47.32:414][931]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-18.47.32:414][931]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-18.47.32:416][931]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-18.47.32:416][931]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-18.47.32:444][931]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-18.47.32:444][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-18.47.32:444][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-18.47.32:444][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-18.47.32:445][931]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-18.47.32:445][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-18.47.32:445][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-18.47.32:446][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-18.47.32:446][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-18.47.32:446][931]LogInit: FAudioDevice initialized.
+[2021.12.15-18.47.32:446][931]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2021.12.15-18.47.32:466][931]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-18.47.32:477][931]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.12.15-12.47.32
+[2021.12.15-18.47.32:478][931]LogWorld: Bringing up level for play took: 0.010772
+[2021.12.15-18.47.32:478][931]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.12.15-18.47.32:483][931]PIE: Server logged in
+[2021.12.15-18.47.32:484][931]PIE: Play in editor total start time 0.112 seconds.
+[2021.12.15-18.47.36:288][378]LogNet: Browse: /Game/2DSideScroller/Levels/Level2
+[2021.12.15-18.47.36:288][378]LogLoad: LoadMap: /Game/2DSideScroller/Levels/Level2
+[2021.12.15-18.47.36:288][378]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level1
+[2021.12.15-18.47.36:289][378]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.47.36:291][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.47.36:342][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.47.36:347][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.12.15-18.47.36:403][378]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level2'.
+[2021.12.15-18.47.36:404][378]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-18.47.36:404][378]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-18.47.36:521][378]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-12.47.36
+[2021.12.15-18.47.36:522][378]LogWorld: Bringing up level for play took: 0.116242
+[2021.12.15-18.47.36:526][378]LogLoad: Took 0.237204 seconds to LoadMap(/Game/2DSideScroller/Levels/Level2)
+[2021.12.15-18.47.47:281][650]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-511.66 Y=0.00 Z=0.00 Location: X=1511.96 Y=0.00 Z=-3344.43 Normal: X=0.58 Y=-0.00 Z=-0.81 PenetrationDepth:1.006 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.12.15-18.47.48:905][843]LogNet: Browse: /Game/2DSideScroller/Levels/Level3
+[2021.12.15-18.47.48:906][843]LogLoad: LoadMap: /Game/2DSideScroller/Levels/Level3
+[2021.12.15-18.47.48:906][843]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-18.47.48:906][843]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.47.48:910][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.47.48:955][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.47.48:959][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.12.15-18.47.49:068][843]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level3'.
+[2021.12.15-18.47.49:069][843]LogAIModule: Creating AISystem for world Level3
+[2021.12.15-18.47.49:070][843]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-18.47.49:334][843]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2021.12.15-12.47.49
+[2021.12.15-18.47.49:335][843]LogWorld: Bringing up level for play took: 0.265352
+[2021.12.15-18.47.49:342][843]LogLoad: Took 0.436273 seconds to LoadMap(/Game/2DSideScroller/Levels/Level3)
+[2021.12.15-18.47.49:359][844]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080894 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom_2', movement 'Walking'
+[2021.12.15-18.47.49:359][844]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059028 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom2_5', movement 'Walking'
+[2021.12.15-18.47.49:359][844]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.053426 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom3_8', movement 'Walking'
+[2021.12.15-18.47.49:359][844]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.088731 > MaxSimulationTimeStep (0.050) for 'BP_Bat4_11', movement 'Walking'
+[2021.12.15-18.47.49:360][844]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059028 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom4_12', movement 'Walking'
+[2021.12.15-18.47.49:360][844]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.089441 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom5_15', movement 'Walking'
+[2021.12.15-18.47.49:360][844]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085909 > MaxSimulationTimeStep (0.050) for 'BP_Bat9_24', movement 'Walking'
+[2021.12.15-18.48.06:518][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.48.06:518][800]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level3
+[2021.12.15-18.48.06:519][800]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.48.06:528][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.48.06:541][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-18.48.06:544][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.48.06:560][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.48.06:560][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-18.48.06:561][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-18.48.06:578][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.12.15-18.48.06:624][801]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.12.15-18.48.14:959][791]LogEditorViewport: Clicking Background
+[2021.12.15-18.48.16:340][956]LogEditorViewport: Clicking Background
+[2021.12.15-18.48.16:779][  8]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Hall_Before_Ridley_Sprite_20)
+[2021.12.15-18.48.20:682][451]LogEditorViewport: Clicking Background
+[2021.12.15-18.48.21:084][498]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Hall_Before_Ridley_Sprite_7)
+[2021.12.15-18.48.24:381][846]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Hall_Before_Ridley_Sprite_8)
+[2021.12.15-18.48.29:155][340]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Hall_Before_Ridley_Sprite_9)
+[2021.12.15-18.48.32:830][725]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Hall_Before_Ridley_Sprite_10)
+[2021.12.15-18.48.36:233][111]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Hall_Before_Ridley_Sprite_11)
+[2021.12.15-18.48.48:453][482]LogEditorViewport: Clicking Background
+[2021.12.15-18.49.05:944][502]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_3)
+[2021.12.15-18.49.11:007][ 63]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_4)
+[2021.12.15-18.49.13:748][352]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_5)
+[2021.12.15-18.49.17:539][726]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_6)
+[2021.12.15-18.49.21:426][113]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_7)
+[2021.12.15-18.49.25:762][575]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_16)
+[2021.12.15-18.49.28:104][823]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_17)
+[2021.12.15-18.49.32:047][246]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_18)
+[2021.12.15-18.49.35:669][615]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_19)
+[2021.12.15-18.49.42:310][277]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_20)
+[2021.12.15-18.49.46:072][677]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_29)
+[2021.12.15-18.49.51:931][253]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_30)
+[2021.12.15-18.49.55:063][584]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_31)
+[2021.12.15-18.49.58:092][897]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_32)
+[2021.12.15-18.50.02:472][352]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_33)
+[2021.12.15-18.50.11:275][295]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_21)
+[2021.12.15-18.50.13:848][552]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_8)
+[2021.12.15-18.50.18:282][992]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_34)
+[2021.12.15-18.50.20:874][258]LogEditorViewport: Clicking Background
+[2021.12.15-18.50.21:412][321]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_35)
+[2021.12.15-18.50.24:423][630]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_22)
+[2021.12.15-18.50.27:707][959]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_9)
+[2021.12.15-18.50.31:227][317]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_36)
+[2021.12.15-18.50.34:819][685]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_23)
+[2021.12.15-18.50.38:138][ 10]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_10)
+[2021.12.15-18.50.41:392][347]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_37)
+[2021.12.15-18.50.45:411][823]LogEditorViewport: Clicking Background
+[2021.12.15-18.50.54:359][775]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_38)
+[2021.12.15-18.51.03:003][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.12.15-18.51.03:205][690]LogSavePackage: Moving '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Saved/Level1E09230B64D95E8F4D3AFD690F842F621.tmp' to '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level1.umap'
+[2021.12.15-18.51.03:369][690]LogSavePackage: Moving '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Saved/Level1_BuiltData58B2E18B4EBB86D542AF77AD26E4944D.tmp' to '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level1_BuiltData.uasset'
+[2021.12.15-18.51.03:377][690]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.15-18.51.03:377][690]LogContentValidation: Display: Validating World /Game/2DSideScroller/Levels/Level1.Level1
+[2021.12.15-18.51.03:377][690]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScroller/Levels/Level1_BuiltData.Level1_BuiltData
+[2021.12.15-18.51.05:336][915]LogEditorViewport: Clicking Background
+[2021.12.15-18.51.15:491][ 90]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Lower_Norfair_Entry_Room_Sprite_26)
+[2021.12.15-18.51.17:704][341]LogEditorViewport: Clicking Background
+[2021.12.15-18.51.23:422][912]LogEditorViewport: Clicking Background
+[2021.12.15-18.51.24:844][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.12.15-18.51.25:045][ 58]LogSavePackage: Moving '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Saved/Level192EA0B234ABCAE938EBC6296A1E212A5.tmp' to '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level1.umap'
+[2021.12.15-18.51.25:223][ 58]LogSavePackage: Moving '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Saved/Level1_BuiltDataD8C9D42C46C5745849CE49BBA901971F.tmp' to '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level1_BuiltData.uasset'
+[2021.12.15-18.51.25:234][ 58]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.15-18.51.25:234][ 58]LogContentValidation: Display: Validating World /Game/2DSideScroller/Levels/Level1.Level1
+[2021.12.15-18.51.25:234][ 58]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScroller/Levels/Level1_BuiltData.Level1_BuiltData
+[2021.12.15-18.51.46:424][516]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-18.51.46:433][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-18.51.46:433][516]PIE: New page: PIE session: Level1 (Dec 15, 2021, 6:51:46 AM)
+[2021.12.15-18.51.46:433][516]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level1
+[2021.12.15-18.51.46:455][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022380s)
+[2021.12.15-18.51.46:456][516]LogAIModule: Creating AISystem for world Level1
+[2021.12.15-18.51.46:465][516]LogPlayLevel: PIE: World Init took: (0.009359s)
+[2021.12.15-18.51.46:465][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level1.Level1 to /Game/2DSideScroller/Levels/UEDPIE_0_Level1.Level1 (0.031985s)
+[2021.12.15-18.51.46:471][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.15-18.51.46:472][516]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.12.15-18.51.46:472][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-18.51.46:472][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-18.51.46:472][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-18.51.46:472][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-18.51.46:472][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-18.51.46:473][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-18.51.46:473][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-18.51.46:473][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-18.51.46:473][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-18.51.46:473][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-18.51.46:473][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-18.51.46:473][516]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-18.51.46:474][516]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-18.51.46:474][516]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-18.51.46:503][516]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-18.51.46:503][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-18.51.46:503][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-18.51.46:503][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-18.51.46:504][516]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-18.51.46:504][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-18.51.46:504][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-18.51.46:505][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-18.51.46:505][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-18.51.46:505][516]LogInit: FAudioDevice initialized.
+[2021.12.15-18.51.46:505][516]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2021.12.15-18.51.46:519][516]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-18.51.46:530][516]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.12.15-12.51.46
+[2021.12.15-18.51.46:530][516]LogWorld: Bringing up level for play took: 0.010903
+[2021.12.15-18.51.46:531][516]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.12.15-18.51.46:536][516]PIE: Server logged in
+[2021.12.15-18.51.46:537][516]PIE: Play in editor total start time 0.107 seconds.
+[2021.12.15-18.51.55:480][572]LogNet: Browse: /Game/2DSideScroller/Levels/Level2
+[2021.12.15-18.51.55:480][572]LogLoad: LoadMap: /Game/2DSideScroller/Levels/Level2
+[2021.12.15-18.51.55:480][572]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level1
+[2021.12.15-18.51.55:481][572]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.51.55:483][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.51.55:523][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.51.55:528][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.12.15-18.51.55:587][572]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level2'.
+[2021.12.15-18.51.55:588][572]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-18.51.55:588][572]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-18.51.55:704][572]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-12.51.55
+[2021.12.15-18.51.55:705][572]LogWorld: Bringing up level for play took: 0.115787
+[2021.12.15-18.51.55:708][572]LogLoad: Took 0.228467 seconds to LoadMap(/Game/2DSideScroller/Levels/Level2)
+[2021.12.15-18.52.06:425][831]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-600.00 Y=0.00 Z=0.00 Location: X=1496.38 Y=0.00 Z=-3344.36 Normal: X=0.41 Y=-0.00 Z=-0.91 PenetrationDepth:0.984 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.12.15-18.52.08:483][ 76]LogNet: Browse: /Game/2DSideScroller/Levels/Level3
+[2021.12.15-18.52.08:483][ 76]LogLoad: LoadMap: /Game/2DSideScroller/Levels/Level3
+[2021.12.15-18.52.08:483][ 76]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-18.52.08:484][ 76]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.52.08:487][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.52.08:534][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.52.08:539][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.12.15-18.52.08:645][ 76]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level3'.
+[2021.12.15-18.52.08:646][ 76]LogAIModule: Creating AISystem for world Level3
+[2021.12.15-18.52.08:646][ 76]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-18.52.08:901][ 76]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2021.12.15-12.52.08
+[2021.12.15-18.52.08:902][ 76]LogWorld: Bringing up level for play took: 0.255683
+[2021.12.15-18.52.08:908][ 76]LogLoad: Took 0.425443 seconds to LoadMap(/Game/2DSideScroller/Levels/Level3)
+[2021.12.15-18.52.08:926][ 77]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080894 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom_2', movement 'Walking'
+[2021.12.15-18.52.08:926][ 77]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059028 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom2_5', movement 'Walking'
+[2021.12.15-18.52.08:926][ 77]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.053426 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom3_8', movement 'Walking'
+[2021.12.15-18.52.08:926][ 77]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.088731 > MaxSimulationTimeStep (0.050) for 'BP_Bat4_11', movement 'Walking'
+[2021.12.15-18.52.08:926][ 77]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059028 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom4_12', movement 'Walking'
+[2021.12.15-18.52.08:927][ 77]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.089441 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom5_15', movement 'Walking'
+[2021.12.15-18.52.08:927][ 77]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085909 > MaxSimulationTimeStep (0.050) for 'BP_Bat9_24', movement 'Walking'
+[2021.12.15-18.52.22:227][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.52.22:227][589]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level3
+[2021.12.15-18.52.22:228][589]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.52.22:236][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.52.22:248][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-18.52.22:252][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.52.22:263][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.52.22:265][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-18.52.22:266][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-18.52.22:285][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.12.15-18.52.22:336][590]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.12.15-18.52.25:009][906]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-18.52.25:017][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-18.52.25:017][906]PIE: New page: PIE session: Level1 (Dec 15, 2021, 6:52:25 AM)
+[2021.12.15-18.52.25:017][906]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level1
+[2021.12.15-18.52.25:042][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024502s)
+[2021.12.15-18.52.25:043][906]LogAIModule: Creating AISystem for world Level1
+[2021.12.15-18.52.25:047][906]LogPlayLevel: PIE: World Init took: (0.005467s)
+[2021.12.15-18.52.25:047][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level1.Level1 to /Game/2DSideScroller/Levels/UEDPIE_0_Level1.Level1 (0.030132s)
+[2021.12.15-18.52.25:055][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.12.15-18.52.25:056][906]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.12.15-18.52.25:056][906]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-18.52.25:056][906]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-18.52.25:056][906]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-18.52.25:056][906]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-18.52.25:056][906]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-18.52.25:056][906]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-18.52.25:056][906]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-18.52.25:056][906]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-18.52.25:057][906]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-18.52.25:057][906]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-18.52.25:057][906]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-18.52.25:057][906]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-18.52.25:058][906]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-18.52.25:058][906]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-18.52.25:084][906]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-18.52.25:084][906]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-18.52.25:084][906]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-18.52.25:084][906]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-18.52.25:085][906]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-18.52.25:085][906]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-18.52.25:085][906]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-18.52.25:087][906]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-18.52.25:087][906]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-18.52.25:087][906]LogInit: FAudioDevice initialized.
+[2021.12.15-18.52.25:087][906]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level1'.
+[2021.12.15-18.52.25:105][906]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-18.52.25:116][906]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.12.15-12.52.25
+[2021.12.15-18.52.25:116][906]LogWorld: Bringing up level for play took: 0.010527
+[2021.12.15-18.52.25:117][906]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.12.15-18.52.25:123][906]PIE: Server logged in
+[2021.12.15-18.52.25:124][906]PIE: Play in editor total start time 0.109 seconds.
+[2021.12.15-18.52.28:881][348]LogNet: Browse: /Game/2DSideScroller/Levels/Level2
+[2021.12.15-18.52.28:882][348]LogLoad: LoadMap: /Game/2DSideScroller/Levels/Level2
+[2021.12.15-18.52.28:882][348]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level1
+[2021.12.15-18.52.28:882][348]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.52.28:885][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.52.28:932][348]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.52.28:936][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.12.15-18.52.28:995][348]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level2'.
+[2021.12.15-18.52.28:996][348]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-18.52.28:996][348]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-18.52.29:114][348]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-12.52.29
+[2021.12.15-18.52.29:115][348]LogWorld: Bringing up level for play took: 0.118195
+[2021.12.15-18.52.29:118][348]LogLoad: Took 0.236885 seconds to LoadMap(/Game/2DSideScroller/Levels/Level2)
+[2021.12.15-18.52.39:790][598]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-600.00 Y=0.00 Z=0.00 Location: X=1483.90 Y=0.00 Z=-3344.34 Normal: X=0.27 Y=-0.00 Z=-0.96 PenetrationDepth:0.774 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.12.15-18.52.45:958][331]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=600.00 Y=0.00 Z=0.00 Location: X=1396.56 Y=0.00 Z=-3344.40 Normal: X=-0.71 Y=-0.00 Z=-0.70 PenetrationDepth:0.585 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (22 other events since notify)
+[2021.12.15-18.52.57:936][745]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-514.04 Y=0.00 Z=0.00 Location: X=1512.86 Y=0.00 Z=-3344.38 Normal: X=0.59 Y=-0.00 Z=-0.80 PenetrationDepth:0.995 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (11 other events since notify)
+[2021.12.15-18.53.04:033][460]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=228.05 Y=0.00 Z=0.00 Location: X=1391.53 Y=0.00 Z=-3344.41 Normal: X=-0.77 Y=-0.00 Z=-0.64 PenetrationDepth:0.772 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (13 other events since notify)
+[2021.12.15-18.53.15:978][843]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-534.09 Y=0.00 Z=0.00 Location: X=1511.89 Y=0.00 Z=-3344.36 Normal: X=0.58 Y=-0.00 Z=-0.81 PenetrationDepth:1.106 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (9 other events since notify)
+[2021.12.15-18.53.22:079][538]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=598.23 Y=0.00 Z=0.00 Location: X=1393.62 Y=0.00 Z=-3344.40 Normal: X=-0.74 Y=-0.00 Z=-0.67 PenetrationDepth:0.578 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (10 other events since notify)
+[2021.12.15-18.53.29:047][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.53.29:047][323]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-18.53.29:048][323]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.53.29:053][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.53.29:065][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-18.53.29:068][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.53.29:075][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.53.29:079][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-18.53.29:080][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-18.53.29:094][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.12.15-18.53.29:128][324]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.12.15-18.53.42:731][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.15-18.53.42:887][949]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScroller/Levels/Level2.Level2
+[2021.12.15-18.53.42:887][949]Cmd: MAP LOAD FILE="../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-18.53.42:887][949]LightingResults: New page: Lighting Build
+[2021.12.15-18.53.42:887][949]LoadErrors: New page: Loading map: Level2.umap
+[2021.12.15-18.53.42:892][949]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.53.42:892][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.53.42:893][949]MapCheck: New page: Map Check
+[2021.12.15-18.53.42:893][949]LightingResults: New page: Lighting Build
+[2021.12.15-18.53.42:903][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-18.53.43:014][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.12.15-18.53.43:044][949]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2021.12.15-18.53.43:188][949]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-18.53.43:188][949]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-18.53.43:315][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.12.15-18.53.43:363][949]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-18.53.43:363][949]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2021.12.15-18.53.43:363][949]LogFileHelpers: Loading map 'Level2' took 0.476
+[2021.12.15-18.53.49:116][620]LogEditorViewport: Clicking on Actor (LMB): 1x1_C (1x36)
+[2021.12.15-18.53.50:813][819]Cmd: DELETE
+[2021.12.15-18.53.50:813][819]Cmd: ACTOR DELETE
+[2021.12.15-18.53.50:823][819]LogEditorActor: Deleted Actor: 1x1_C
+[2021.12.15-18.53.50:830][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.12.15-18.53.50:831][819]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.12.15-18.53.52:293][993]LogEditorViewport: Clicking on Actor (LMB): Coin_C (Coin5)
+[2021.12.15-18.54.01:407][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.15-18.54.01:718][948]LogSavePackage: Moving '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Saved/Level2B9F3A2084AFCBDA74D6700BFDED890D4.tmp' to '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level2.umap'
+[2021.12.15-18.54.01:732][948]AssetCheck: New page: Asset Save: Level2
+[2021.12.15-18.54.01:732][948]LogContentValidation: Display: Validating World /Game/2DSideScroller/Levels/Level2.Level2
+[2021.12.15-18.54.02:862][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-18.54.02:870][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-18.54.02:870][ 69]PIE: New page: PIE session: Level2 (Dec 15, 2021, 6:54:02 AM)
+[2021.12.15-18.54.02:871][ 69]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-18.54.02:905][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034358s)
+[2021.12.15-18.54.02:906][ 69]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-18.54.02:906][ 69]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2021.12.15-18.54.02:906][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level2.Level2 to /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 (0.035706s)
+[2021.12.15-18.54.02:914][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.15-18.54.02:914][ 69]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.12.15-18.54.02:914][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-18.54.02:914][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-18.54.02:914][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-18.54.02:914][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-18.54.02:914][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-18.54.02:914][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-18.54.02:914][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-18.54.02:914][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-18.54.02:914][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-18.54.02:914][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-18.54.02:914][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-18.54.02:914][ 69]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-18.54.02:916][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-18.54.02:916][ 69]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-18.54.02:943][ 69]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-18.54.02:943][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-18.54.02:943][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-18.54.02:943][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-18.54.02:944][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-18.54.02:944][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-18.54.02:944][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-18.54.02:945][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-18.54.02:945][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-18.54.02:945][ 69]LogInit: FAudioDevice initialized.
+[2021.12.15-18.54.02:945][ 69]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level2'.
+[2021.12.15-18.54.02:952][ 69]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-18.54.02:969][ 69]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-12.54.02
+[2021.12.15-18.54.02:970][ 69]LogWorld: Bringing up level for play took: 0.016807
+[2021.12.15-18.54.02:970][ 69]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.12.15-18.54.02:976][ 69]PIE: Server logged in
+[2021.12.15-18.54.02:976][ 69]PIE: Play in editor total start time 0.109 seconds.
+[2021.12.15-18.54.13:783][354]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-600.00 Y=0.00 Z=0.00 Location: X=1469.84 Y=0.00 Z=-3344.37 Normal: X=0.11 Y=-0.00 Z=-0.99 PenetrationDepth:1.846 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.12.15-18.54.19:973][ 90]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=415.62 Y=0.00 Z=0.00 Location: X=1393.20 Y=0.00 Z=-3344.40 Normal: X=-0.75 Y=-0.00 Z=-0.67 PenetrationDepth:0.501 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (36 other events since notify)
+[2021.12.15-18.54.31:905][494]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-600.00 Y=0.00 Z=0.00 Location: X=1508.56 Y=0.00 Z=-3344.37 Normal: X=0.54 Y=-0.00 Z=-0.84 PenetrationDepth:0.829 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (8 other events since notify)
+[2021.12.15-18.54.38:001][207]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=573.02 Y=0.00 Z=0.00 Location: X=1393.65 Y=0.00 Z=-3344.40 Normal: X=-0.74 Y=-0.00 Z=-0.67 PenetrationDepth:0.144 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (16 other events since notify)
+[2021.12.15-18.54.49:993][600]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-600.00 Y=0.00 Z=0.00 Location: X=1517.90 Y=0.00 Z=-3344.39 Normal: X=0.65 Y=-0.00 Z=-0.76 PenetrationDepth:0.699 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (7 other events since notify)
+[2021.12.15-18.54.56:044][292]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=367.73 Y=0.00 Z=0.00 Location: X=1394.04 Y=0.00 Z=-3344.38 Normal: X=-0.73 Y=-0.00 Z=-0.68 PenetrationDepth:0.106 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (7 other events since notify)
+[2021.12.15-18.55.08:024][644]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-563.32 Y=0.00 Z=0.00 Location: X=1512.06 Y=0.00 Z=-3344.39 Normal: X=0.59 Y=-0.00 Z=-0.81 PenetrationDepth:1.869 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (12 other events since notify)
+[2021.12.15-18.55.14:118][323]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=417.01 Y=0.00 Z=0.00 Location: X=1393.90 Y=0.00 Z=-3344.44 Normal: X=-0.74 Y=-0.00 Z=-0.67 PenetrationDepth:0.847 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (19 other events since notify)
+[2021.12.15-18.55.26:081][620]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-537.90 Y=0.00 Z=0.00 Location: X=1515.86 Y=0.00 Z=-3344.38 Normal: X=0.63 Y=-0.00 Z=-0.78 PenetrationDepth:0.719 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (11 other events since notify)
+[2021.12.15-18.55.32:163][245]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=548.95 Y=0.00 Z=0.00 Location: X=1391.23 Y=0.00 Z=-3344.40 Normal: X=-0.77 Y=-0.00 Z=-0.64 PenetrationDepth:0.209 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (15 other events since notify)
+[2021.12.15-18.55.44:112][447]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-481.85 Y=0.00 Z=0.00 Location: X=1514.74 Y=0.00 Z=-3344.36 Normal: X=0.61 Y=-0.00 Z=-0.79 PenetrationDepth:0.605 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (7 other events since notify)
+[2021.12.15-18.55.50:225][ 41]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=253.84 Y=0.00 Z=0.00 Location: X=1391.86 Y=0.00 Z=-3344.39 Normal: X=-0.77 Y=-0.00 Z=-0.64 PenetrationDepth:1.106 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (10 other events since notify)
+[2021.12.15-18.56.02:205][169]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-600.00 Y=0.00 Z=0.00 Location: X=1513.63 Y=0.00 Z=-3344.35 Normal: X=0.60 Y=-0.00 Z=-0.80 PenetrationDepth:0.703 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (6 other events since notify)
+[2021.12.15-18.56.08:285][728]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=177.39 Y=0.00 Z=0.00 Location: X=1393.41 Y=0.00 Z=-3344.39 Normal: X=-0.75 Y=-0.00 Z=-0.67 PenetrationDepth:0.738 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (12 other events since notify)
+[2021.12.15-18.56.09:247][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.56.09:247][812]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-18.56.09:248][812]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-18.56.09:254][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.56.09:262][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-18.56.09:271][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-18.56.09:282][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-18.56.09:283][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-18.56.09:284][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-18.56.09:298][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.12.15-18.56.09:351][813]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.12.15-19.00.34:106][519]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-19.00.34:115][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-19.00.34:115][519]PIE: New page: PIE session: Level2 (Dec 15, 2021, 7:00:34 AM)
+[2021.12.15-19.00.34:115][519]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.00.34:162][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046006s)
+[2021.12.15-19.00.34:163][519]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-19.00.34:163][519]LogPlayLevel: PIE: World Init took: (0.001783s)
+[2021.12.15-19.00.34:164][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level2.Level2 to /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 (0.047983s)
+[2021.12.15-19.00.34:171][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.12.15-19.00.34:174][519]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.12.15-19.00.34:174][519]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-19.00.34:174][519]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-19.00.34:174][519]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-19.00.34:174][519]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-19.00.34:174][519]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-19.00.34:174][519]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-19.00.34:174][519]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-19.00.34:174][519]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-19.00.34:174][519]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-19.00.34:174][519]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-19.00.34:174][519]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-19.00.34:174][519]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-19.00.34:176][519]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-19.00.34:176][519]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-19.00.34:205][519]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-19.00.34:205][519]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-19.00.34:205][519]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-19.00.34:205][519]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-19.00.34:206][519]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-19.00.34:206][519]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-19.00.34:206][519]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-19.00.34:207][519]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-19.00.34:207][519]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-19.00.34:207][519]LogInit: FAudioDevice initialized.
+[2021.12.15-19.00.34:207][519]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level2'.
+[2021.12.15-19.00.34:218][519]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-19.00.34:234][519]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-13.00.34
+[2021.12.15-19.00.34:235][519]LogWorld: Bringing up level for play took: 0.015849
+[2021.12.15-19.00.34:235][519]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.12.15-19.00.34:241][519]PIE: Server logged in
+[2021.12.15-19.00.34:242][519]PIE: Play in editor total start time 0.13 seconds.
+[2021.12.15-19.00.36:234][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.12.15-19.00.36:345][742]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScroller/Levels/Level1.Level1
+[2021.12.15-19.00.40:010][742]LogSlate: Window 'Message' being destroyed
+[2021.12.15-19.00.40:015][742]Message dialog closed, result: Yes, title: Message, text: This action will terminate your Play In Editor session.  Continue?
+[2021.12.15-19.00.40:018][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.00.40:018][742]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.00.40:019][742]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.00.40:028][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.00.40:042][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-19.00.40:050][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.00.40:062][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.00.40:063][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.00.40:064][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.00.40:083][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.12.15-19.00.40:090][742]Cmd: MAP LOAD FILE="../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-19.00.40:127][742]LightingResults: New page: Lighting Build
+[2021.12.15-19.00.40:127][742]LoadErrors: New page: Loading map: Level1.umap
+[2021.12.15-19.00.40:136][742]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.00.40:136][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.00.40:136][742]MapCheck: New page: Map Check
+[2021.12.15-19.00.40:136][742]LightingResults: New page: Lighting Build
+[2021.12.15-19.00.40:143][742]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-19.00.40:150][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.12.15-19.00.40:151][742]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.12.15-19.00.40:234][742]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-19.00.40:234][742]LogAIModule: Creating AISystem for world Level1
+[2021.12.15-19.00.40:320][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.12.15-19.00.40:331][742]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-19.00.40:332][742]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2021.12.15-19.00.40:332][742]LogFileHelpers: Loading map 'Level1' took 3.986
+[2021.12.15-19.00.40:380][743]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.12.15-19.00.42:663][  2]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-19.00.42:670][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-19.00.42:670][  2]PIE: New page: PIE session: Level1 (Dec 15, 2021, 7:00:42 AM)
+[2021.12.15-19.00.42:671][  2]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level1
+[2021.12.15-19.00.42:696][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025635s)
+[2021.12.15-19.00.42:697][  2]LogAIModule: Creating AISystem for world Level1
+[2021.12.15-19.00.42:702][  2]LogPlayLevel: PIE: World Init took: (0.005439s)
+[2021.12.15-19.00.42:702][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level1.Level1 to /Game/2DSideScroller/Levels/UEDPIE_0_Level1.Level1 (0.031237s)
+[2021.12.15-19.00.42:708][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.12.15-19.00.42:710][  2]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.12.15-19.00.42:710][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-19.00.42:710][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-19.00.42:710][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-19.00.42:710][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-19.00.42:710][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-19.00.42:710][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-19.00.42:710][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-19.00.42:710][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-19.00.42:710][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-19.00.42:710][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-19.00.42:711][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-19.00.42:711][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-19.00.42:712][  2]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-19.00.42:712][  2]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-19.00.42:737][  2]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-19.00.42:738][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-19.00.42:738][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-19.00.42:738][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-19.00.42:738][  2]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-19.00.42:738][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-19.00.42:738][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-19.00.42:739][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-19.00.42:739][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-19.00.42:739][  2]LogInit: FAudioDevice initialized.
+[2021.12.15-19.00.42:739][  2]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level1'.
+[2021.12.15-19.00.42:757][  2]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-19.00.42:767][  2]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.12.15-13.00.42
+[2021.12.15-19.00.42:768][  2]LogWorld: Bringing up level for play took: 0.010408
+[2021.12.15-19.00.42:768][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.12.15-19.00.42:774][  2]PIE: Server logged in
+[2021.12.15-19.00.42:775][  2]PIE: Play in editor total start time 0.107 seconds.
+[2021.12.15-19.01.02:935][387]LogNet: Browse: /Game/2DSideScroller/Levels/Level2
+[2021.12.15-19.01.02:935][387]LogLoad: LoadMap: /Game/2DSideScroller/Levels/Level2
+[2021.12.15-19.01.02:935][387]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level1
+[2021.12.15-19.01.02:937][387]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.01.02:940][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.01.02:989][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-19.01.02:995][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.12.15-19.01.03:056][387]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level2'.
+[2021.12.15-19.01.03:057][387]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-19.01.03:057][387]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-19.01.03:177][387]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-13.01.03
+[2021.12.15-19.01.03:178][387]LogWorld: Bringing up level for play took: 0.121163
+[2021.12.15-19.01.03:182][387]LogLoad: Took 0.247311 seconds to LoadMap(/Game/2DSideScroller/Levels/Level2)
+[2021.12.15-19.01.13:907][646]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-453.67 Y=0.00 Z=0.00 Location: X=1507.71 Y=0.00 Z=-3344.37 Normal: X=0.53 Y=-0.00 Z=-0.85 PenetrationDepth:0.593 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.12.15-19.01.15:873][881]LogNet: Browse: /Game/2DSideScroller/Levels/Level3
+[2021.12.15-19.01.15:873][881]LogLoad: LoadMap: /Game/2DSideScroller/Levels/Level3
+[2021.12.15-19.01.15:873][881]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.01.15:874][881]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.01.15:878][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.01.15:921][881]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-19.01.15:925][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.12.15-19.01.16:037][881]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level3'.
+[2021.12.15-19.01.16:038][881]LogAIModule: Creating AISystem for world Level3
+[2021.12.15-19.01.16:038][881]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-19.01.16:294][881]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2021.12.15-13.01.16
+[2021.12.15-19.01.16:295][881]LogWorld: Bringing up level for play took: 0.256276
+[2021.12.15-19.01.16:301][881]LogLoad: Took 0.427516 seconds to LoadMap(/Game/2DSideScroller/Levels/Level3)
+[2021.12.15-19.01.16:319][882]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080894 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom_2', movement 'Walking'
+[2021.12.15-19.01.16:320][882]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059028 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom2_5', movement 'Walking'
+[2021.12.15-19.01.16:320][882]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.053426 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom3_8', movement 'Walking'
+[2021.12.15-19.01.16:320][882]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.088731 > MaxSimulationTimeStep (0.050) for 'BP_Bat4_11', movement 'Walking'
+[2021.12.15-19.01.16:320][882]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059028 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom4_12', movement 'Walking'
+[2021.12.15-19.01.16:320][882]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.089441 > MaxSimulationTimeStep (0.050) for 'BP_Mushroom5_15', movement 'Walking'
+[2021.12.15-19.01.16:320][882]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085909 > MaxSimulationTimeStep (0.050) for 'BP_Bat9_24', movement 'Walking'
+[2021.12.15-19.01.59:736][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.01.59:736][771]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level3
+[2021.12.15-19.01.59:737][771]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.01.59:748][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.01.59:762][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-19.01.59:767][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.01.59:781][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.01.59:785][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.01.59:786][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.01.59:806][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.12.15-19.01.59:855][772]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.12.15-19.02.02:672][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.12.15-19.02.03:174][ 93]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScroller/Levels/Level3.Level3
+[2021.12.15-19.02.03:174][ 93]Cmd: MAP LOAD FILE="../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-19.02.03:174][ 93]LightingResults: New page: Lighting Build
+[2021.12.15-19.02.03:174][ 93]LoadErrors: New page: Loading map: Level3.umap
+[2021.12.15-19.02.03:180][ 93]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.02.03:181][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.02.03:181][ 93]MapCheck: New page: Map Check
+[2021.12.15-19.02.03:181][ 93]LightingResults: New page: Lighting Build
+[2021.12.15-19.02.03:197][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-19.02.03:283][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.12.15-19.02.03:297][ 93]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2021.12.15-19.02.03:812][ 93]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-19.02.03:812][ 93]LogAIModule: Creating AISystem for world Level3
+[2021.12.15-19.02.03:934][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.12.15-19.02.03:963][ 93]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-19.02.03:964][ 93]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.23ms to complete.
+[2021.12.15-19.02.03:964][ 93]LogFileHelpers: Loading map 'Level3' took 0.790
+[2021.12.15-19.02.10:895][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.12.15-19.02.11:067][881]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScroller/Levels/Level2.Level2
+[2021.12.15-19.02.11:068][881]Cmd: MAP LOAD FILE="../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.15-19.02.11:068][881]LightingResults: New page: Lighting Build
+[2021.12.15-19.02.11:068][881]LoadErrors: New page: Loading map: Level2.umap
+[2021.12.15-19.02.11:080][881]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.02.11:080][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.02.11:081][881]MapCheck: New page: Map Check
+[2021.12.15-19.02.11:081][881]LightingResults: New page: Lighting Build
+[2021.12.15-19.02.11:098][881]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-19.02.11:173][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.12.15-19.02.11:221][881]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2021.12.15-19.02.11:365][881]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.15-19.02.11:365][881]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-19.02.11:440][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.12.15-19.02.11:492][881]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.15-19.02.11:492][881]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2021.12.15-19.02.11:492][881]LogFileHelpers: Loading map 'Level2' took 0.424
+[2021.12.15-19.02.52:456][756]LogEditorViewport: Clicking on Actor (LMB): Teleport2_C (Teleport2)
+[2021.12.15-19.03.19:083][471]Cmd: TRANSACTION UNDO
+[2021.12.15-19.03.19:083][471]LogEditorTransaction: Undo Move Actors
+[2021.12.15-19.03.20:807][612]Cmd: TRANSACTION UNDO
+[2021.12.15-19.03.20:807][612]LogEditorTransaction: Undo Move Actors
+[2021.12.15-19.03.22:530][811]LogEditorViewport: Clicking Background
+[2021.12.15-19.03.28:966][567]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.12.15-19.03.34:907][196]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.15-19.03.37:180][368]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.15-19.03.38:781][519]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.12.15-19.03.40:617][724]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-19.03.40:627][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-19.03.40:627][724]PIE: New page: PIE session: Level2 (Dec 15, 2021, 7:03:40 AM)
+[2021.12.15-19.03.40:627][724]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.03.40:662][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034312s)
+[2021.12.15-19.03.40:663][724]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-19.03.40:663][724]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2021.12.15-19.03.40:663][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level2.Level2 to /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 (0.035747s)
+[2021.12.15-19.03.40:671][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.12.15-19.03.40:673][724]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.12.15-19.03.40:673][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-19.03.40:673][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-19.03.40:673][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-19.03.40:673][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-19.03.40:673][724]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-19.03.40:673][724]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-19.03.40:673][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-19.03.40:673][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-19.03.40:674][724]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-19.03.40:674][724]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-19.03.40:674][724]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-19.03.40:674][724]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-19.03.40:675][724]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-19.03.40:675][724]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-19.03.40:702][724]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-19.03.40:702][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-19.03.40:702][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-19.03.40:702][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-19.03.40:702][724]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-19.03.40:703][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-19.03.40:703][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-19.03.40:704][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-19.03.40:704][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-19.03.40:704][724]LogInit: FAudioDevice initialized.
+[2021.12.15-19.03.40:704][724]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level2'.
+[2021.12.15-19.03.40:716][724]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-19.03.40:731][724]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-13.03.40
+[2021.12.15-19.03.40:732][724]LogWorld: Bringing up level for play took: 0.015474
+[2021.12.15-19.03.40:732][724]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.12.15-19.03.40:737][724]PIE: Server logged in
+[2021.12.15-19.03.40:738][724]PIE: Play in editor total start time 0.115 seconds.
+[2021.12.15-19.03.51:600][ 14]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-514.20 Y=0.00 Z=0.00 Location: X=1507.62 Y=0.00 Z=-3344.35 Normal: X=0.53 Y=-0.00 Z=-0.85 PenetrationDepth:0.153 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.12.15-19.03.52:436][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.03.52:436][108]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.03.52:437][108]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.03.52:441][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.03.52:451][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-19.03.52:464][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.03.52:471][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-19.03.52:473][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.03.52:474][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.03.52:481][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.03.52:484][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.12.15-19.03.52:507][109]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.12.15-19.04.00:515][ 50]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite19)
+[2021.12.15-19.04.02:932][304]LogEditorViewport: Clicking Background
+[2021.12.15-19.04.03:339][351]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite20)
+[2021.12.15-19.04.05:972][639]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite21)
+[2021.12.15-19.04.08:944][960]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite22)
+[2021.12.15-19.04.11:788][261]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite23)
+[2021.12.15-19.04.22:227][433]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite25)
+[2021.12.15-19.04.23:632][587]LogEditorViewport: Clicking Background
+[2021.12.15-19.04.33:631][693]Cmd: EDIT COPY
+[2021.12.15-19.04.33:988][734]Cmd: EDIT PASTE
+[2021.12.15-19.04.40:455][365]Cmd: EDIT PASTE
+[2021.12.15-19.04.52:469][412]Cmd: EDIT COPY
+[2021.12.15-19.04.52:806][451]Cmd: EDIT PASTE
+[2021.12.15-19.05.01:868][318]LogEditorViewport: Clicking Background
+[2021.12.15-19.05.05:415][714]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-19.05.05:422][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-19.05.05:422][714]PIE: New page: PIE session: Level2 (Dec 15, 2021, 7:05:05 AM)
+[2021.12.15-19.05.05:422][714]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.05.05:459][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036711s)
+[2021.12.15-19.05.05:460][714]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-19.05.05:461][714]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2021.12.15-19.05.05:461][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level2.Level2 to /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 (0.038172s)
+[2021.12.15-19.05.05:469][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.12.15-19.05.05:471][714]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.12.15-19.05.05:471][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-19.05.05:471][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-19.05.05:471][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-19.05.05:471][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-19.05.05:471][714]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-19.05.05:471][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-19.05.05:471][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-19.05.05:471][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-19.05.05:471][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-19.05.05:471][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-19.05.05:471][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-19.05.05:471][714]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-19.05.05:472][714]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-19.05.05:472][714]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-19.05.05:501][714]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-19.05.05:501][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-19.05.05:501][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-19.05.05:501][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-19.05.05:501][714]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-19.05.05:501][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-19.05.05:501][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-19.05.05:503][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-19.05.05:503][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-19.05.05:503][714]LogInit: FAudioDevice initialized.
+[2021.12.15-19.05.05:503][714]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level2'.
+[2021.12.15-19.05.05:510][714]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-19.05.05:527][714]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-13.05.05
+[2021.12.15-19.05.05:528][714]LogWorld: Bringing up level for play took: 0.016565
+[2021.12.15-19.05.05:528][714]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.12.15-19.05.05:533][714]PIE: Server logged in
+[2021.12.15-19.05.05:534][714]PIE: Play in editor total start time 0.114 seconds.
+[2021.12.15-19.05.11:017][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.05.11:017][355]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.05.11:018][355]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.05.11:022][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.05.11:030][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-19.05.11:033][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.05.11:040][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.15-19.05.11:040][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.05.11:042][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.05.11:048][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.05.11:053][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.12.15-19.05.11:092][356]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.12.15-19.05.26:101][136]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite43)
+[2021.12.15-19.05.36:265][317]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite44)
+[2021.12.15-19.05.39:434][663]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite37)
+[2021.12.15-19.05.43:050][ 60]LogEditorViewport: Clicking Background
+[2021.12.15-19.05.43:891][159]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite46)
+[2021.12.15-19.05.49:483][792]LogEditorViewport: Clicking Background
+[2021.12.15-19.05.49:982][849]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite45)
+[2021.12.15-19.05.52:196][ 80]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite17)
+[2021.12.15-19.05.57:276][680]LogEditorViewport: Clicking Background
+[2021.12.15-19.05.58:650][815]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-19.05.58:658][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-19.05.58:658][815]PIE: New page: PIE session: Level2 (Dec 15, 2021, 7:05:58 AM)
+[2021.12.15-19.05.58:658][815]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.05.58:694][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035769s)
+[2021.12.15-19.05.58:695][815]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-19.05.58:695][815]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2021.12.15-19.05.58:695][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level2.Level2 to /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 (0.037059s)
+[2021.12.15-19.05.58:701][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.12.15-19.05.58:702][815]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.12.15-19.05.58:703][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-19.05.58:703][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-19.05.58:703][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-19.05.58:703][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-19.05.58:703][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-19.05.58:703][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-19.05.58:703][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-19.05.58:703][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-19.05.58:703][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-19.05.58:703][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-19.05.58:703][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-19.05.58:703][815]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-19.05.58:704][815]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-19.05.58:704][815]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-19.05.58:730][815]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-19.05.58:731][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-19.05.58:731][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-19.05.58:731][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-19.05.58:731][815]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-19.05.58:731][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-19.05.58:731][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-19.05.58:733][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-19.05.58:733][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-19.05.58:733][815]LogInit: FAudioDevice initialized.
+[2021.12.15-19.05.58:733][815]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level2'.
+[2021.12.15-19.05.58:745][815]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-19.05.58:761][815]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-13.05.58
+[2021.12.15-19.05.58:762][815]LogWorld: Bringing up level for play took: 0.015960
+[2021.12.15-19.05.58:762][815]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.12.15-19.05.58:767][815]PIE: Server logged in
+[2021.12.15-19.05.58:768][815]PIE: Play in editor total start time 0.114 seconds.
+[2021.12.15-19.06.09:641][107]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-496.05 Y=0.00 Z=0.00 Location: X=1509.41 Y=0.00 Z=-3344.37 Normal: X=0.55 Y=-0.00 Z=-0.84 PenetrationDepth:0.098 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.12.15-19.06.13:335][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.06.13:335][541]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.06.13:336][541]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.06.13:340][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.06.13:350][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-19.06.13:353][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.06.13:358][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.06.13:359][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.06.13:361][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.06.13:375][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.12.15-19.06.13:412][542]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.12.15-19.06.18:418][140]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite22)
+[2021.12.15-19.06.19:485][263]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite43)
+[2021.12.15-19.06.23:627][716]LogEditorViewport: Clicking Background
+[2021.12.15-19.06.24:643][837]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite22)
+[2021.12.15-19.06.26:033][999]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite23)
+[2021.12.15-19.06.29:980][451]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite41)
+[2021.12.15-19.06.31:894][676]LogEditorViewport: Clicking Background
+[2021.12.15-19.06.44:454][117]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite24)
+[2021.12.15-19.06.48:370][554]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite44)
+[2021.12.15-19.06.53:287][116]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite25)
+[2021.12.15-19.06.59:235][781]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite37)
+[2021.12.15-19.07.06:564][616]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-19.07.06:571][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-19.07.06:571][616]PIE: New page: PIE session: Level2 (Dec 15, 2021, 7:07:06 AM)
+[2021.12.15-19.07.06:572][616]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.07.06:606][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034228s)
+[2021.12.15-19.07.06:607][616]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-19.07.06:607][616]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2021.12.15-19.07.06:607][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level2.Level2 to /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 (0.035632s)
+[2021.12.15-19.07.06:614][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.12.15-19.07.06:616][616]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.12.15-19.07.06:616][616]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-19.07.06:616][616]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-19.07.06:616][616]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-19.07.06:616][616]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-19.07.06:616][616]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-19.07.06:616][616]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-19.07.06:616][616]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-19.07.06:616][616]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-19.07.06:616][616]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-19.07.06:617][616]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-19.07.06:617][616]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-19.07.06:617][616]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-19.07.06:618][616]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-19.07.06:618][616]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-19.07.06:644][616]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-19.07.06:644][616]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-19.07.06:644][616]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-19.07.06:644][616]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-19.07.06:645][616]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-19.07.06:645][616]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-19.07.06:645][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-19.07.06:646][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-19.07.06:647][616]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-19.07.06:647][616]LogInit: FAudioDevice initialized.
+[2021.12.15-19.07.06:647][616]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level2'.
+[2021.12.15-19.07.06:655][616]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-19.07.06:671][616]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-13.07.06
+[2021.12.15-19.07.06:671][616]LogWorld: Bringing up level for play took: 0.015440
+[2021.12.15-19.07.06:672][616]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.12.15-19.07.06:677][616]PIE: Server logged in
+[2021.12.15-19.07.06:678][616]PIE: Play in editor total start time 0.11 seconds.
+[2021.12.15-19.07.17:554][907]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-600.00 Y=0.00 Z=0.00 Location: X=1508.73 Y=0.00 Z=-3344.37 Normal: X=0.55 Y=-0.00 Z=-0.84 PenetrationDepth:0.875 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.12.15-19.07.17:896][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.07.17:896][942]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.07.17:897][942]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.07.17:901][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.07.17:910][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-19.07.17:925][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.07.17:934][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.07.17:936][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.07.17:937][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.07.17:947][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.12.15-19.07.17:993][943]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.12.15-19.07.19:514][124]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite24)
+[2021.12.15-19.07.20:958][292]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite44)
+[2021.12.15-19.07.25:082][751]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite37)
+[2021.12.15-19.07.29:003][178]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-19.07.29:010][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-19.07.29:010][178]PIE: New page: PIE session: Level2 (Dec 15, 2021, 7:07:29 AM)
+[2021.12.15-19.07.29:010][178]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.07.29:046][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036036s)
+[2021.12.15-19.07.29:047][178]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-19.07.29:047][178]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2021.12.15-19.07.29:047][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level2.Level2 to /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 (0.037288s)
+[2021.12.15-19.07.29:054][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.12.15-19.07.29:055][178]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.12.15-19.07.29:056][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-19.07.29:056][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-19.07.29:056][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-19.07.29:056][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-19.07.29:056][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-19.07.29:056][178]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-19.07.29:056][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-19.07.29:056][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-19.07.29:056][178]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-19.07.29:056][178]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-19.07.29:056][178]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-19.07.29:056][178]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-19.07.29:057][178]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-19.07.29:057][178]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-19.07.29:084][178]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-19.07.29:084][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-19.07.29:084][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-19.07.29:084][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-19.07.29:085][178]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-19.07.29:085][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-19.07.29:085][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-19.07.29:086][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-19.07.29:086][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-19.07.29:086][178]LogInit: FAudioDevice initialized.
+[2021.12.15-19.07.29:086][178]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level2'.
+[2021.12.15-19.07.29:098][178]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-19.07.29:120][178]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-13.07.29
+[2021.12.15-19.07.29:122][178]LogWorld: Bringing up level for play took: 0.023389
+[2021.12.15-19.07.29:122][178]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.12.15-19.07.29:127][178]PIE: Server logged in
+[2021.12.15-19.07.29:128][178]PIE: Play in editor total start time 0.121 seconds.
+[2021.12.15-19.07.39:987][468]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-566.31 Y=0.00 Z=0.00 Location: X=1509.64 Y=0.00 Z=-3344.37 Normal: X=0.55 Y=-0.00 Z=-0.83 PenetrationDepth:0.368 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.12.15-19.07.45:735][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.07.45:735][149]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.07.45:736][149]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.07.45:741][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.07.45:751][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-19.07.45:766][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.07.45:773][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.07.45:776][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.07.45:777][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.07.45:788][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.12.15-19.07.45:829][150]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.12.15-19.07.52:617][944]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite38)
+[2021.12.15-19.07.56:290][347]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite26)
+[2021.12.15-19.08.00:308][800]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite39)
+[2021.12.15-19.08.02:392][ 45]Cmd: DELETE
+[2021.12.15-19.08.02:392][ 45]Cmd: ACTOR DELETE
+[2021.12.15-19.08.02:407][ 45]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.12.15-19.08.02:414][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.12.15-19.08.02:415][ 45]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.12.15-19.08.02:808][ 91]LogEditorViewport: Clicking Background
+[2021.12.15-19.08.04:235][261]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite40)
+[2021.12.15-19.08.04:500][288]Cmd: DELETE
+[2021.12.15-19.08.04:500][288]Cmd: ACTOR DELETE
+[2021.12.15-19.08.04:517][288]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.12.15-19.08.04:524][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.12.15-19.08.04:525][288]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.12.15-19.08.05:286][379]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite27)
+[2021.12.15-19.08.05:729][427]Cmd: DELETE
+[2021.12.15-19.08.05:729][427]Cmd: ACTOR DELETE
+[2021.12.15-19.08.05:745][427]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.12.15-19.08.05:751][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.12.15-19.08.05:751][427]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.12.15-19.08.10:403][985]Cmd: TRANSACTION UNDO
+[2021.12.15-19.08.10:403][985]LogEditorTransaction: Undo Delete Actors
+[2021.12.15-19.08.13:621][277]LogEditorViewport: Clicking Background
+[2021.12.15-19.08.14:048][327]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite28)
+[2021.12.15-19.08.19:709][968]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite27)
+[2021.12.15-19.08.20:922][109]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite31)
+[2021.12.15-19.08.24:038][457]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite32)
+[2021.12.15-19.08.29:580][ 77]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite24)
+[2021.12.15-19.08.31:191][264]LogEditorViewport: Clicking Background
+[2021.12.15-19.08.31:752][330]LogEditorViewport: Clicking Background
+[2021.12.15-19.08.32:340][400]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite29)
+[2021.12.15-19.08.35:585][759]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite30)
+[2021.12.15-19.08.37:498][962]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite31)
+[2021.12.15-19.08.37:823][996]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2021.12.15-19.08.39:860][213]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite32)
+[2021.12.15-19.08.43:605][631]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite35)
+[2021.12.15-19.08.54:787][868]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite10)
+[2021.12.15-19.09.01:783][610]LogEditorViewport: Clicking Background
+[2021.12.15-19.09.02:263][666]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite9)
+[2021.12.15-19.09.23:876][ 33]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite33)
+[2021.12.15-19.09.35:795][341]LogEditorViewport: Clicking Background
+[2021.12.15-19.09.37:362][527]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite36)
+[2021.12.15-19.09.40:843][901]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite29)
+[2021.12.15-19.09.45:594][416]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite30)
+[2021.12.15-19.09.52:952][184]LogEditorViewport: Clicking Background
+[2021.12.15-19.09.53:896][295]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite31)
+[2021.12.15-19.10.00:768][ 39]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite32)
+[2021.12.15-19.10.05:993][579]LogEditorViewport: Clicking Background
+[2021.12.15-19.10.06:453][633]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite28)
+[2021.12.15-19.10.32:141][479]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite46)
+[2021.12.15-19.10.32:971][571]LogEditorViewport: Clicking Background
+[2021.12.15-19.10.45:191][833]LogEditorViewport: Clicking Background
+[2021.12.15-19.10.47:968][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.12.15-19.10.48:294][130]LogSavePackage: Moving '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Saved/Level25CA545B24885D2115BBD21B8F765CB20.tmp' to '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level2.umap'
+[2021.12.15-19.10.48:324][130]AssetCheck: New page: Asset Save: Level2
+[2021.12.15-19.10.48:324][130]LogContentValidation: Display: Validating World /Game/2DSideScroller/Levels/Level2.Level2
+[2021.12.15-19.10.48:942][197]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.15-19.10.48:953][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.15-19.10.48:953][197]PIE: New page: PIE session: Level2 (Dec 15, 2021, 7:10:48 AM)
+[2021.12.15-19.10.48:953][197]LogPlayLevel: Creating play world package: /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.10.49:010][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057128s)
+[2021.12.15-19.10.49:012][197]LogAIModule: Creating AISystem for world Level2
+[2021.12.15-19.10.49:012][197]LogPlayLevel: PIE: World Init took: (0.001815s)
+[2021.12.15-19.10.49:012][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScroller/Levels/Level2.Level2 to /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 (0.059163s)
+[2021.12.15-19.10.49:023][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.12.15-19.10.49:023][197]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.12.15-19.10.49:024][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.15-19.10.49:024][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.15-19.10.49:024][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.15-19.10.49:024][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.15-19.10.49:024][197]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.15-19.10.49:024][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.15-19.10.49:024][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.15-19.10.49:024][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.15-19.10.49:024][197]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.15-19.10.49:024][197]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.15-19.10.49:024][197]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.15-19.10.49:024][197]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.15-19.10.49:026][197]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.15-19.10.49:026][197]LogAudioMixer: Display: 1: FrontRight
+[2021.12.15-19.10.49:065][197]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.12.15-19.10.49:066][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.15-19.10.49:066][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.15-19.10.49:066][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.15-19.10.49:068][197]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.15-19.10.49:068][197]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.15-19.10.49:068][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.15-19.10.49:069][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.15-19.10.49:069][197]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.15-19.10.49:069][197]LogInit: FAudioDevice initialized.
+[2021.12.15-19.10.49:069][197]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level2'.
+[2021.12.15-19.10.49:079][197]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.15-19.10.49:101][197]LogWorld: Bringing World /Game/2DSideScroller/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2021.12.15-13.10.49
+[2021.12.15-19.10.49:102][197]LogWorld: Bringing up level for play took: 0.022767
+[2021.12.15-19.10.49:102][197]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.12.15-19.10.49:109][197]PIE: Server logged in
+[2021.12.15-19.10.49:110][197]PIE: Play in editor total start time 0.16 seconds.
+[2021.12.15-19.10.59:932][473]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-446.89 Y=0.00 Z=0.00 Location: X=1511.15 Y=0.00 Z=-3344.38 Normal: X=0.57 Y=-0.00 Z=-0.82 PenetrationDepth:0.575 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.12.15-19.11.06:043][199]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=600.00 Y=0.00 Z=0.00 Location: X=1393.82 Y=0.00 Z=-3344.40 Normal: X=-0.75 Y=-0.00 Z=-0.66 PenetrationDepth:1.458 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (14 other events since notify)
+[2021.12.15-19.11.18:009][610]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-600.00 Y=0.00 Z=0.00 Location: X=1511.70 Y=0.00 Z=-3344.38 Normal: X=0.59 Y=-0.00 Z=-0.81 PenetrationDepth:2.105 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (9 other events since notify)
+[2021.12.15-19.11.24:077][320]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=600.00 Y=0.00 Z=0.00 Location: X=1395.14 Y=0.00 Z=-3344.40 Normal: X=-0.73 Y=-0.00 Z=-0.69 PenetrationDepth:0.546 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (13 other events since notify)
+[2021.12.15-19.11.36:039][707]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=-288.44 Y=0.00 Z=0.00 Location: X=1512.83 Y=0.00 Z=-3344.37 Normal: X=0.59 Y=-0.00 Z=-0.81 PenetrationDepth:0.667 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (9 other events since notify)
+[2021.12.15-19.11.42:136][396]LogCharacterMovement: BP_Mushroom_2 is stuck and failed to move! Velocity: X=205.22 Y=0.00 Z=0.00 Location: X=1391.17 Y=0.00 Z=-3344.40 Normal: X=-0.76 Y=-0.00 Z=-0.64 PenetrationDepth:0.031 Actor:BP_Bat_2 Component:CollisionCylinder BoneName:None (11 other events since notify)
+[2021.12.15-19.11.46:824][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.11.46:824][925]LogWorld: BeginTearingDown for /Game/2DSideScroller/Levels/UEDPIE_0_Level2
+[2021.12.15-19.11.46:825][925]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.12.15-19.11.46:830][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.11.46:841][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.15-19.11.46:844][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.15-19.11.46:854][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.15-19.11.46:854][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.11.46:855][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.15-19.11.46:870][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.12.15-19.11.46:904][926]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.12.15-19.11.53:651][684]LogEditorViewport: Clicking Background
+[2021.12.15-19.12.11:062][670]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Torizo_s_Room_Sprite49)
+[2021.12.15-19.12.21:889][922]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Torizo_s_Room_Sprite49)
+[2021.12.15-19.12.23:261][ 77]LogEditorViewport: Clicking on Actor (CTRL LMB): PaperSpriteActor (Torizo_s_Room_Sprite64)
+[2021.12.15-19.12.27:982][554]LogEditorViewport: Clicking Background
+[2021.12.15-19.12.32:630][ 97]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite2)
+[2021.12.15-19.12.35:179][377]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite)
+[2021.12.15-19.12.37:279][601]LogEditorViewport: Clicking Background
+[2021.12.15-19.12.45:625][574]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite7)
+[2021.12.15-19.12.49:062][937]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite8)
+[2021.12.15-19.12.51:920][242]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite13)
+[2021.12.15-19.12.56:778][758]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite14)
+[2021.12.15-19.12.58:722][963]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite15)
+[2021.12.15-19.13.01:506][239]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Old_Tourain_Fog_Sprite16)
+[2021.12.15-19.13.16:500][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.12.15-19.13.16:816][895]LogSavePackage: Moving '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Saved/Level2FF82BCA145F4FCCFE62B4F8288BC6D1E.tmp' to '../../../../../../Users/yuxinw5/Desktop/CS498GD-Final-MP/CS498_Final_Project/Content/2DSideScroller/Levels/Level2.umap'
+[2021.12.15-19.13.16:843][895]AssetCheck: New page: Asset Save: Level2
+[2021.12.15-19.13.16:843][895]LogContentValidation: Display: Validating World /Game/2DSideScroller/Levels/Level2.Level2
